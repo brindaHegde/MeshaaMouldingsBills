@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshaaMouldingsInvoice", "WpfApp1\MeshaaMouldingsInvoice.csproj", "{3FE39F3A-E634-4023-BE3E-8BF0052B86FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeshaaMouldingsInvoice", "MeshaaMouldingsInvoice\MeshaaMouldingsInvoice.csproj", "{3FE39F3A-E634-4023-BE3E-8BF0052B86FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceCommonData", "InvoiceCommonData\InvoiceCommonData.csproj", "{FFC658AA-A193-4522-918B-93D7A5A43822}"
 EndProject
